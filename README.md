@@ -11,5 +11,7 @@
 
 
 ![1](https://github.com/yurkovawika/Java_Development_Kit/assets/102153972/3358b69f-cd6c-46b4-8ee1-dfb68fccf821)
+
 ![2](https://github.com/yurkovawika/Java_Development_Kit/assets/102153972/a236a716-2e75-47d4-a879-064d2115a0e5)
+
 ![3](https://github.com/yurkovawika/Java_Development_Kit/assets/102153972/1ecaffe7-a286-45bd-8d17-d210d3c9ee57)
