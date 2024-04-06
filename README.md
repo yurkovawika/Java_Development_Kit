@@ -1,5 +1,7 @@
 # Java Development Kit (семинары)
 
+<details>
+
 ## Урок 1. Графические интерфейсы
 
 
@@ -15,3 +17,18 @@
 ![2](https://github.com/yurkovawika/Java_Development_Kit/assets/102153972/a236a716-2e75-47d4-a879-064d2115a0e5)
 
 ![3](https://github.com/yurkovawika/Java_Development_Kit/assets/102153972/1ecaffe7-a286-45bd-8d17-d210d3c9ee57)
+
+  <summary>Урок №1</summary>
+</details>
+
+<details>
+  <summary>Урок №2</summary>
+    
+## Урок 2. Программные интерфейсы
+
+### 1. Дописать третье задание таким образом, чтобы в идентификатор типа Developer записывался объект Frontender, и далее вызывался метод developGUI(), не изменяя существующие интерфейсы, только код основного класса.
+
+На скрине ниже отображена работа программы, которая показывает  работу классов в абстрактном классе Developer/
+![image](https://github.com/yurkovawika/Java_Development_Kit/assets/102153972/b9054ebb-19d4-4f1c-a57b-26aebad3621d)
+
+</details>
