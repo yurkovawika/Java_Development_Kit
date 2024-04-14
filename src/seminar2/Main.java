@@ -39,4 +39,3 @@ public class Main {
     }
 }
 
-// Проверить, что будет , если в Developer записать обьект Frontender
