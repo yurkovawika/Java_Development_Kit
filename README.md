@@ -73,6 +73,7 @@
 
 ● Философы не должны есть больше одного раза подряд
 
+[Решение:](https://github.com/yurkovawika/Java_Development_Kit/blob/master/src/seminar5/DiningPhilosophers.java)
 
 Philosopher - это класс, представляющий философа. Каждый философ реализует интерфейс Runnable.Это позволяет его использовать как поток.
 В методе run(), который реализует интерфейс Runnable, философ выполняет следующие действия:
